@@ -1,0 +1,32 @@
+
+
+button {
+    width: 250px;
+    height: 80px;
+    font-family: Lato, sans-serif;
+    font-size: 1.2em;
+    font-weight: 700;
+    color: white;
+    padding: 0.2em 0.5em;
+    margin: 0.4em;    
+    cursor: pointer;
+    
+    text-transform: uppercase;
+    border-radius: 1em;
+    border: 2px solid white;
+}
+
+button:hover {
+    opacity: 0.5;
+    transform: scale(1.05);
+}
+
+.boton-click {
+    background-color: #002ead;    
+}
+
+.boton-reiniciar {
+    background-color: #5a01a7;
+    
+}
+
